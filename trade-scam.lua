@@ -1,4 +1,3 @@
--- If you crack this then keep in mind that if you leak this it will be patched pretty soon, i dont mind if you crack it but dont get it patched.
 --[[
  .____                  ________ ___.    _____                           __                
  |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
